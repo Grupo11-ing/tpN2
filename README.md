@@ -3,7 +3,9 @@ trabajo practico: SISTEMA DE RESERVA DE VUELOS
 <a name="readme-top"></a>
 <br/>
 <div align="center">
-  <a href="https://github.com/Laboratorio-I-G15/laboratorio-1-gestion-proyectos">
+
+  <a href="https://github.com/Grupo11-ing/tpN2/">
+
     <img src="https://github.com/raffarraffa/laboratorio-1-universidad/blob/main/ulp.png" alt="Logo" width="200" height="200">
   </a>
   <div>
